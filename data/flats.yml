@@ -1,0 +1,44 @@
+- name: seb
+  city: Paris
+  title: Seb's Home
+  description: Flat in paris
+  user_image: seb.jpg
+  background: background-paris.jpg
+- name: anne
+  city: Brussels
+  title: Anne's Home
+  description: Flat in Brussels
+  user_image: anne.jpg
+  background: background-brussels.jpeg
+- name: Romain
+  city: London
+  title: Romain's Home
+  description: Flat in London
+  user_image: romain.jpeg
+  background: background-london.jpg
+
+- name: seb
+  city: Paris
+  title: Seb's Home
+  description: Flat in paris
+  user_image: seb.jpg
+  background: background-paris.jpg
+- name: anne
+  city: Brussels
+  title: Anne's Home
+  description: Flat in Brussels
+  user_image: anne.jpg
+  background: background-brussels.jpeg
+- name: Romain
+  city: London
+  title: Romain's Home
+  description: Flat in London
+  user_image: romain.jpeg
+  background: background-london.jpg
+
+- name: Romain
+  city: London
+  title: Romain's Home
+  description: Flat in London
+  user_image: romain.jpeg
+  background: background-london.jpg

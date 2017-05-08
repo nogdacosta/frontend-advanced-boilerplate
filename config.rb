@@ -10,6 +10,11 @@
 # Auto-prefixing of CSS code with vendor prefix
 activate :autoprefixer
 
+# in config.rb
+["anne", "seb", "romain"].each do |member|
+  proxy "/flats/#{member}.html", "/flats/show.html", :locals => { :owner => member }
+end
+
 ###
 # Page options, layouts, aliases and proxies
 ###
